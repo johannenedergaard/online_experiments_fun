@@ -1,1 +1,3 @@
-# online_experiments_fun
+# Fun with online experiments
+
+PsychoJS, jsPsych, and the like.
